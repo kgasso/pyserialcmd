@@ -1,0 +1,3 @@
+#beep normal constant on
+cmd = [0xA0, 0x04, 0x01, 0xC7]
+cmd = bytearray(cmd)

@@ -1,0 +1,3 @@
+#beep off
+cmd = [0xA0, 0x04, 0x00, 0xA4]
+cmd = bytearray(cmd)

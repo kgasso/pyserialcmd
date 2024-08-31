@@ -1,0 +1,3 @@
+#beep mormal intermittent on
+cmd = [0xA0, 0x04, 0x01, 0xD8]
+cmd = bytearray(cmd)

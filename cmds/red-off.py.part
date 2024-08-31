@@ -1,0 +1,3 @@
+#red off
+cmd = [0xA0, 0x01, 0x00, 0xA1]
+cmd = bytearray(cmd)

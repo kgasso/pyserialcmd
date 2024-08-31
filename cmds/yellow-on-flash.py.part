@@ -1,0 +1,3 @@
+#yellow flash on
+cmd = [0xA0, 0x03, 0x01, 0xB5]
+cmd = bytearray(cmd)
